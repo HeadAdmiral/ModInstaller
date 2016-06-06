@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ModInstaller:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ModInstaller_jar</output-path>
+    <root id="archive" name="ModInstaller.jar">
+      <element id="module-output" name="ModInstaller" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-io-2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
